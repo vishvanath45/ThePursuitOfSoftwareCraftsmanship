@@ -1,6 +1,0 @@
-[submodule "themes/ezhil"]
-	path = themes/ezhil
-	url = https://github.com/vividvilla/ezhil.git
-[submodule "themes/Hugo-Octopress"]
-	path = themes/Hugo-Octopress
-	url = https://github.com/parsiya/Hugo-Octopress
